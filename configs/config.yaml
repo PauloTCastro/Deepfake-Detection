@@ -1,0 +1,51 @@
+# configs/config.yaml
+# TCC — Detecção de Deepfakes com Dual-Stream ViT
+# PUC-Rio — Pós-Graduação em Visão Computacional
+
+# ---------------------------------------------------------------------------
+# Dados
+# ---------------------------------------------------------------------------
+data:
+  train_dir:    "data/processed/train"   # Subpastas: real/ e fake/
+  val_dir:      "data/processed/val"
+  test_dir:     "data/processed/test"
+  img_size:     224
+  batch_size:   32
+  num_workers:  4
+  balanced_sampler: true
+  max_per_class: null    # null = usa tudo; defina ex. 5000 para subconjunto rápido
+
+# ---------------------------------------------------------------------------
+# Modelo
+# ---------------------------------------------------------------------------
+model:
+  freeze_vit_blocks:    8     # Congela os 8 primeiros blocos do ViT-B/16 (de 12)
+  dropout:              0.4
+  num_cross_attn_layers: 2
+
+# ---------------------------------------------------------------------------
+# Treinamento
+# ---------------------------------------------------------------------------
+train:
+  epochs:           30
+  lr:               0.0001       # 1e-4 — conservador para fine-tuning de ViT
+  weight_decay:     0.0001
+  focal_gamma:      2.0
+  pos_weight:       1.5          # Deepfakes > reais em FF++ — eleva peso do fake
+  ema_decay:        0.9999
+  T_0:              10
+  min_lr:           0.000001
+  patience:         8
+  checkpoint_dir:   "results/models"
+
+# ---------------------------------------------------------------------------
+# Pré-processamento de Vídeos (src/dataset.py — VideoFrameExtractor)
+# ---------------------------------------------------------------------------
+extraction:
+  n_frames:     30        # frames por vídeo
+  face_margin:  0.3       # 30% de margem ao redor do rosto
+
+# ---------------------------------------------------------------------------
+# Resultados
+# ---------------------------------------------------------------------------
+results_dir: "results/figures"
