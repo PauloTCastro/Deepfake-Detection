@@ -3,7 +3,7 @@
 
 > **Pós-Graduação em Visão Computacional**  
 > Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)  
-> Autor: [Paulo de Tarso Castro Silva · Orientador: Manoela Kohler
+> Autor: Paulo de Tarso Castro Silva · Orientador: Manoela Kohler
 > Ano: 2026
 
 ---
