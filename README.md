@@ -1,10 +1,10 @@
 # 🕵️ Detecção de Deepfakes com Dual-Stream Vision Transformer
 ### Análise Espacial + Frequencial com Cross-Attention
 
-> **TCC — Pós-Graduação em Visão Computacional**  
+> **Pós-Graduação em Visão Computacional**  
 > Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)  
-> Autor: [Seu Nome] · Orientador: [Nome do Orientador]  
-> Ano: 2025
+> Autor: [Paulo de Tarso Castro Silva · Orientador: Manoela Kohler
+> Ano: 2026
 
 ---
 
