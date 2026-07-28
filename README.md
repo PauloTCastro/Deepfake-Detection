@@ -1,6 +1,7 @@
 # Detecção de Deepfakes com Dual-Stream Vision Transformer
 
 **Aluno:** Paulo de Tarso Castro Silva  
+
 **Orientadora:** Profa. Manoela Kohler
 
 Trabalho apresentado ao curso [VC-MASTER](https://ica.ele.puc-rio.br/cursos/) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projeto de Visão Computacional".
