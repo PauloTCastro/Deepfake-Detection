@@ -281,4 +281,4 @@ O notebook `TCC_Deepfake_Detection_FINAL.ipynb` pode ser executado diretamente n
 
 Curso de Pós-graduação em Visão Computacional 
 
-Pontifícia Universidade Católica do Rio de Janeiro **  
+Pontifícia Universidade Católica do Rio de Janeiro 
