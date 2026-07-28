@@ -36,7 +36,7 @@ O avanço das ferramentas de geração DeepFakes, Face2Face, FaceSwap e NeuralTe
 
 ### Trabalhos Relacionados
 
-**MesoNet** (Afchar et al., 2018) foi um dos primeiros trabalhos a usar CNNs compactas para detecção de deepfakes, alcançando AUC ≈ 0,847 no FaceForensics++. **XceptionNet** (Rössler et al., 2019), baseline oficial do FF++, atingiu AUC ≈ 0,955 operando exclusivamente no domínio espacial. Os **Vision Transformers** (Dosovitskiy et al., 2020) introduziram mecanismos de atenção global que permitem capturar inconsistências de longa distância como bordas de fusão — que CNNs com campo receptivo local tendem a perder. Este trabalho propõe a **fusão explícita e bidirecional** dos domínios espacial e frequencial, permitindo que cada stream guie a atenção do outro para os artefatos relevantes.
+**MesoNet** (Afchar et al., 2018) foi um dos primeiros trabalhos a usar CNNs compactas para detecção de deepfakes, alcançando AUC ≈ 0,847 no FaceForensics++. **XceptionNet** (Rössler et al., 2019), baseline oficial do FF++, atingiu AUC ≈ 0,955 operando exclusivamente no domínio espacial. Os **Vision Transformers** (Dosovitskiy et al., 2020) introduziram mecanismos de atenção global que permitem capturar inconsistências de longa distância como bordas de fusão que CNNs com campo receptivo local tendem a perder. Este trabalho propõe a **fusão explícita e bidirecional** dos domínios espacial e frequencial, permitindo que cada stream guie a atenção do outro para os artefatos relevantes.
 
 ---
 
