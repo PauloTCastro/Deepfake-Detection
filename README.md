@@ -277,6 +277,8 @@ O notebook `TCC_Deepfake_Detection_FINAL.ipynb` pode ser executado diretamente n
 
 5. VASWANI, A.; SHAZEER, N.; PARMAR, N. et al. **Attention Is All You Need.** In: *Advances in Neural Information Processing Systems (NeurIPS)*, 2017. Disponível em: https://arxiv.org/abs/1706.03762
 
-**Matrícula:** 232.100.495  
-** Curso de Pós-graduação em Visão Computacional ** 
-** Pontifícia Universidade Católica do Rio de Janeiro **  
+**Matrícula:** 232.100.495
+
+Curso de Pós-graduação em Visão Computacional 
+
+Pontifícia Universidade Católica do Rio de Janeiro **  
