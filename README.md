@@ -4,6 +4,7 @@
 
 **Orientadora:** Profa. Manoela Kohler
 
+
 Trabalho apresentado ao curso [VC-MASTER](https://ica.ele.puc-rio.br/cursos/) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projeto de Visão Computacional".
 
 **Link para o código:** [Deepfake_Detection.ipynb](https://github.com/PauloTCastro/Deepfake-Detection/blob/main/Deepfake_Detection.ipynb)
