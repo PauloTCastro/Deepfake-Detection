@@ -5,7 +5,7 @@
 
 Trabalho apresentado ao curso [VC-MASTER](https://ica.ele.puc-rio.br/cursos/) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projeto de Visão Computacional".
 
-[Link para o código] https://github.com/PauloTCastro/Deepfake-Detection](https://github.com/PauloTCastro/Deepfake-Detection/blob/main/Deepfake_Detection.ipynb
+[Link para o código] https://github.com/PauloTCastro/Deepfake-Detection/blob/main/Deepfake_Detection.ipynb
 
 
 ## Resumo
