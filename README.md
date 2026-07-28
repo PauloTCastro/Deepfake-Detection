@@ -1,7 +1,6 @@
-## Detecção de Deepfakes com Dual-Stream Vision Transformer
+# Detecção de Deepfakes com Dual-Stream Vision Transformer
 
-**Aluno:** Paulo de Tarso Castro Silva  
-
+**Aluno:** Paulo de Tarso Castro Silva 
 **Orientadora:** Profa. Manoela Kohler
 
 
