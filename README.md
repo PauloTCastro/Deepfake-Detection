@@ -213,7 +213,7 @@ Este trabalho demonstrou que a combinação de análise espacial e frequencial e
 1. **Arquitetura Dual-Stream ViT:** integração explícita e supervisionada dos domínios espacial e frequencial, com fusão por cross-attention bidirecional
 2. **Validação da teoria espectral:** os mapas de atenção confirmam que o modelo aprende a detectar os artefatos GAN periódicos previstos por Durall et al. (2020)
 3. **Pipeline robusta para mídias sociais:** augmentações específicas para compressão e degradação aumentam a generalização para cenários reais
-4. **Resultados competitivos:** AUC 0.998 e EER ~4.8% no FaceForensics++ c23 — desempenho adequado para aplicações forenses
+4. **Resultados competitivos:** AUC 0.998 e EER ~4.8% no FaceForensics++ c23 desempenho adequado para aplicações forenses
 
 **Limitações e trabalhos futuros:**
 
