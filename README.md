@@ -264,7 +264,7 @@ python main.py --mode evaluate --checkpoint results/models/best_model.pth
 python main.py --mode image --input foto.jpg
 ```
 
-O notebook `TCC_Deepfake_Detection_FINAL.ipynb` pode ser executado diretamente no **Google Colab** com GPU T4, sem configuração adicional.
+O notebook `Deepfake_Detection.ipynb` pode ser executado diretamente no **Google Colab** com GPU T4, sem configuração adicional.
 
 ---
 
