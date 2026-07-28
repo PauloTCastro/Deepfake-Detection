@@ -381,4 +381,4 @@ MIT para fins acadêmicos e de pesquisa.
 
 ---
 
-> *"A mentira percorre o mundo antes que a verdade calce as botas — a visão computacional pode ajudar a mudar isso."*
+
